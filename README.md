@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Srizan Singh</h1>
 <h3 align="center">Aspiring Data Scientis from India</h3>
 
-- 🌱 I’m currently learning **react ,django**
+- 🌱 I’m currently learning *Data Science ,ML*
+
+-  I'm Currently working on my Portfolio
 
 - 💬 Ask me about **python**
 
