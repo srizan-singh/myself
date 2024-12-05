@@ -1,14 +1,32 @@
 
 <h1 align="center">Hi 👋, I'm Srizan Singh</h1>
-<h3 align="center">Aspiring Data Scientis from India</h3>
 
+### 🚀 Aspiring Software Engineer & Data Scientist  
+
+🌟 **About Me**  
 - 🌱 I’m currently learning *Data Science ,ML*
-
 -  I'm Currently working on my Portfolio
-
 - 💬 Ask me about **python**
+- 📊 Passionate about combining technology and data to solve real-world problems.  
+- 💡 Currently working as an Assistant Manager at an Edu-Tech company.  
+- 📈 Keen on mastering financial management and decision-making.  
 
-- 📫 How to reach me **vishnu13072map@gmail.com**
+🎯 **My Goals**  
+- Build impactful software solutions.  
+- Dive deeper into machine learning and AI.  
+- Share knowledge and collaborate on exciting projects.  
+
+🛠️ **Technologies & Tools**  
+- Python, R, SQL  
+- Data Visualization: Tableau, Power BI  
+- Git, GitHub  
+- Basics of Web Development (HTML, CSS, JS)
+
+📫 **Connect with Me**  
+- Email: itsmesrizansingh@gmail.com
+- LinkedIn: www.linkedin.com/in/srizan-s-16997a114
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
